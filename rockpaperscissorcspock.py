@@ -89,5 +89,7 @@ elif player == "spock":
         print("Lizard poisons Spock! You win!")  
                 
 print("Thanks for playing!")        
+
+#That's all : )
         
         
