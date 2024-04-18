@@ -1,4 +1,5 @@
 #Rock, Paper, Scissors, Lizard, Spock game
+# Feel free to run this on the command line.
 import random
 
 game_choices = ["rock", "paper", "scissors", "lizard", "spock"]
